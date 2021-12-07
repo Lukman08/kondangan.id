@@ -92,20 +92,28 @@ if (!isset($_SESSION['nama'])) {
 			<h3>Menu</h3>
 			<div class="box">
 				<div class="col-4">
+					<a href="kehadiran.php">
 					<div class="icon"><i class="fas fa-user-check"></i></div>
 					<h4>Kehadiran</h4>
+					</a>
 				</div>
 				<div class="col-4">
+					<a href="beras.php">
 					<div class="icon"><i class="fas fa-shopping-bag"></i></div>
 					<h4>Beras</h4>
+					</a>
 				</div>
 				<div class="col-4">
+					<a href="uang.php">
 					<div class="icon"><i class="fas fa-dollar-sign"></i></div>
 					<h4>Uang</h4>
+					</a>
 				</div>
 				<div class="col-4">
+					<a href="hadiah.php">
 					<div class="icon"><i class="fas fa-gifts"></i></div>
 					<h4>Hadiah</h4>
+					</a>
 				</div>
 			</div>
 		</div>

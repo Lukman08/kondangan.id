@@ -185,7 +185,7 @@ if(isset($_GET['hal']))
 
 		<button type="submit" class="btn btn-success" name="bsimpan">Simpan</button>
 		<button type="reset" class="btn btn-danger" name="breset">Kosongkan</button>
-		<button class="btn btn-warning btn"><a href="cetak_beras.php" target="_blank">Cetak</a></button>
+		<button class="btn btn-warning btn"><a href="cetak_uang.php" target="_blank">Cetak</a></button>
 	</form>
 </div>
 </div>

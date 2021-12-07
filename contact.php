@@ -32,7 +32,7 @@ if (!isset($_SESSION['nama'])) {
 		<div class="container">
 			<ul>
 				<li><a href="mailto:novkarizky@gmail.com?Subject=Booking%20Kondangan.id"><i class="far fa-envelope"></i></a></li>
-				<li><a url="https://api.whatsapp.com/send?phone=6285942150910&text=Hallo%20Kak%20mau%20booking%20kondangan.id%20dong"><i class="fab fa-whatsapp"></i></a></li>
+				<li><a href="https://api.whatsapp.com/send?phone=6285942150910&text=Hallo%20Kak%20mau%20booking%20kondangan.id%20dong"><i class="fab fa-whatsapp"></i></a></li>
 				<li><a href="https://www.instagram.com/adindapnr___"><i class="fab fa-instagram"></i></a></li>
 			</ul>
 		</div>
